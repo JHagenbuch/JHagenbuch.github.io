@@ -17,3 +17,8 @@ body {
 .navbar a:hover {
   color: #979DAC !important; /*change link color on hover */
 }
+
+/*change the color of the "on this page" section */
+#toc-publications {
+  color: #001845; 
+}
