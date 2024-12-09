@@ -20,5 +20,9 @@ body {
 
 /*change the color of the "on this page" section */
 #toc-publications {
-  color: #001845; 
+  color: #001233; 
+}
+
+#toc-publications.nav-link.active {
+  color: #001845;
 }
