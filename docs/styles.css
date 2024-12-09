@@ -8,13 +8,12 @@ body {
 /*navigation bar color changes*/
 .navbar {
   background-color: #283618 !important; /*set background color */
-  color: pink !important; /*set text color */
 }
 
 .navbar a {
-  color: red !important; /*set link color */
+  color: #FEFAE0 !important; /*set link color */
 }
 
 .navbar a:hover {
-  color: #FFD700 !important; /*change link color on hover */
+  color: #606C38 !important; /*change link color on hover */
 }
