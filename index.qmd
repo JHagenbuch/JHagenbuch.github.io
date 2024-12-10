@@ -2,6 +2,6 @@
 title: "JHagenbuch.github.io"
 ---
 
-```{r}
-1 + 1 + 1
-```
+## About Jack Hagenbuch
+Hi everyone! Thank you for visiting my website. I'm working through the preliminary formatting of this portfolio and will be updating content as soon as thats done. -Jack
+---
