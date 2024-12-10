@@ -10,6 +10,9 @@ website:
         text: About
       - Photography.qmd
       - Research.qmd
+    tools:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jack-hagenbuch/
 
 format:
   html:
