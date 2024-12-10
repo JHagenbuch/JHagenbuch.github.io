@@ -13,6 +13,8 @@ website:
     tools:
       - icon: linkedin
         href: https://www.linkedin.com/in/jack-hagenbuch/
+      - icon: github
+        href: https://github.com/JHagenbuch 
 
 format:
   html:
