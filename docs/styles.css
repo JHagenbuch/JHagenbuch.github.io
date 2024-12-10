@@ -19,10 +19,17 @@ body {
 }
 
 /*change the color of the "on this page" section */
-#toc-title {
+#toc-publications {
   color: #001233; 
 }
 
-#publications {
-  color: #001845;
+/* Change the color of the links in the "On This Page" section */
+#toc-publications a {
+  color: #FFD700; /* Custom color for sublinks */
 }
+
+/* Change the color of the links when hovered */
+#toc-publications a:hover {
+  color: #FF4500; /* Optional: Different color when hovered */
+}
+
